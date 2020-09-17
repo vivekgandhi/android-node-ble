@@ -1,0 +1,12 @@
+{
+  "name": "ble-gateway",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "noble": "^1.9.1"
+  }
+}
